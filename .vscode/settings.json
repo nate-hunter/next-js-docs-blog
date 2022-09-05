@@ -1,0 +1,17 @@
+{
+  // "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "workbench.colorCustomizations": {
+    "activityBar.border": "#fff",
+    "activityBar.background": "#0f3a36",
+    "activityBar.activeBackground": "#fff",
+    "activityBar.foreground": "#db6138",
+    "activityBar.inactiveForeground": "#fff",
+    "activityBar.activeBorder": "#0f3a36",
+
+    "titleBar.activeBackground": "#50b1b6",
+    "titleBar.inactiveBackground": "#50b1b6c0",
+    "titleBar.activeForeground": "#F6FCEE"
+  }
+}

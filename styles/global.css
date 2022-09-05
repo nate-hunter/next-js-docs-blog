@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Thicccboi";
+  src: url('../fonts/thicccboi/Webfont/THICCCBOI-Medium.woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Thicccboi Bold";
+  src: url('../fonts/thicccboi/Webfont/THICCCBOI-Bold.woff2');
+  font-weight: bold;
+  font-style:normal;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  
+  font-family: 'Thicccboi';
+
+  line-height: 1.6;
+  font-size: 18px;
+
+  /* background-color: #333;
+  color: #fff; */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+
+strong {
+  font-family: 'Thicccboi Bold';
+}
